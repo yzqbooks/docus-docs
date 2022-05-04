@@ -1,0 +1,10 @@
+
+[submodule "bee-docs"]
+	path = bee-docs
+	url = https://github.com/yzqbooks/bee-docs.git
+[submodule "rust-docs"]
+	path = rust-docs
+	url = https://github.com/yzqbooks/rust-docs.git
+[submodule "Spring-Boot-Reference-Guide"]
+	path = Spring-Boot-Reference-Guide
+	url = https://github.com/yzqbooks/Spring-Boot-Reference-Guide.git

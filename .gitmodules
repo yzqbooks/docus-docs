@@ -8,3 +8,6 @@
 [submodule "Spring-Boot-Reference-Guide"]
 	path = Spring-Boot-Reference-Guide
 	url = https://github.com/yzqbooks/Spring-Boot-Reference-Guide.git
+[submodule "gorm"]
+	path = gorm
+	url = https://github.com/yzqbooks/gorm.git

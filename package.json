@@ -5,11 +5,14 @@
   "workspaces": [
     "rust-docs",
     "bee-docs",
-    "Spring-Boot-Reference-Guide"
+    "Spring-Boot-Reference-Guide",
+    "gorm"
   ],
   "scripts": {
     "bee": "yarn workspace bee start",
-    "rust": "yarn workspace rust-docs start", "spring": "yarn workspace spring start",
+    "rust": "yarn workspace rust-docs start",
+    "spring": "yarn workspace spring start",
+    "gorm": "yarn workspace gorm start",
     "bee:build": "yarn workspace bee build"
   }
 }

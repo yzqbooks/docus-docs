@@ -13,6 +13,8 @@
     "rust": "yarn workspace rust-docs start",
     "spring": "yarn workspace spring start",
     "gorm": "yarn workspace gorm start",
+    "gorm:build": "yarn workspace gorm build",
+    "gorm:serve": "yarn workspace gorm serve",
     "bee:build": "yarn workspace bee build"
   }
 }

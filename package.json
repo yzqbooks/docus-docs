@@ -6,7 +6,8 @@
     "rust-docs",
     "bee-docs",
     "Spring-Boot-Reference-Guide",
-    "gorm"
+    "gorm",
+    "demo"
   ],
   "scripts": {
     "bee": "yarn workspace bee start",
@@ -15,6 +16,7 @@
     "gorm": "yarn workspace gorm start",
     "gorm:build": "yarn workspace gorm build",
     "gorm:serve": "yarn workspace gorm serve",
-    "bee:build": "yarn workspace bee build"
+    "bee:build": "yarn workspace bee build",
+    "demo": "yarn workspace demo start"
   }
 }
